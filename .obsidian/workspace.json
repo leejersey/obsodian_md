@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-07.md",
+                "file": "测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07"
+              "title": "测试"
             }
           }
         ]
@@ -180,13 +180,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e8580ee4e14fabb8",
   "lastOpenFiles": [
+    "欢迎.md",
     "未命名.base",
-    "2026-01-07.md",
-    "欢迎.md"
+    "测试.md"
   ]
 }
