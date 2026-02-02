@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "视频笔记"
             }
-          },
-          {
-            "id": "6b9c550084890606",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b9c550084890606",
+  "active": "e8580ee4e14fabb8",
   "lastOpenFiles": [
     "Ai训练",
     "Agent",
