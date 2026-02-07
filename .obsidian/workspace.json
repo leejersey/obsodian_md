@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "未命名 1.base",
+                "file": "未命名 2.base",
                 "viewName": "表格"
               },
               "icon": "lucide-table",
-              "title": "未命名 1"
+              "title": "未命名 2"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "e8580ee4e14fabb8",
   "lastOpenFiles": [
-    "视频笔记.md",
     "未命名 1.base",
+    "未命名 2.base",
+    "视频笔记.md",
     "欢迎.md",
     "未命名.base",
     "Ai训练",
