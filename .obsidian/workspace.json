@@ -11,13 +11,14 @@
             "id": "e8580ee4e14fabb8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 2.base",
-                "viewName": "表格"
+                "file": "视频笔记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 2"
+              "icon": "lucide-file",
+              "title": "视频笔记"
             }
           }
         ]
@@ -195,11 +196,11 @@
   },
   "active": "e8580ee4e14fabb8",
   "lastOpenFiles": [
-    "未命名 1.base",
+    "未命名.base",
     "未命名 2.base",
+    "未命名 1.base",
     "视频笔记.md",
     "欢迎.md",
-    "未命名.base",
     "Ai训练",
     "Agent"
   ]
