@@ -11,10 +11,14 @@
             "id": "57252d14c8211b54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "readme"
             }
           }
         ]
@@ -192,14 +196,15 @@
   },
   "active": "57252d14c8211b54",
   "lastOpenFiles": [
-    "Agent/AI 应用开发.md",
-    "欢迎.md",
     "未命名.md",
+    "readme.md",
+    "未命名 2.base",
+    "欢迎.md",
+    "Agent/AI 应用开发.md",
     "未命名.base",
     "视频笔记.md",
     "ai",
     "未命名 1.base",
-    "未命名 2.base",
     "Ai训练",
     "Agent"
   ]
