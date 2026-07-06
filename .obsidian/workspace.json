@@ -11,16 +11,32 @@
             "id": "e8580ee4e14fabb8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "Agent/AI 应用开发.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "AI 应用开发"
+            }
+          },
+          {
+            "id": "58a0b64417e297f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent/AI 应用开发.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI 应用开发"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,12 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8580ee4e14fabb8",
+  "active": "58a0b64417e297f4",
   "lastOpenFiles": [
-    "视频笔记.md",
+    "未命名.md",
     "未命名.base",
-    "未命名 2.base",
+    "Agent/AI 应用开发.md",
+    "视频笔记.md",
+    "ai",
     "未命名 1.base",
+    "未命名 2.base",
     "欢迎.md",
     "Ai训练",
     "Agent"
