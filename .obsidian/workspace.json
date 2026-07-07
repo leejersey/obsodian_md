@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Agent/AI 应用开发大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "AI 应用开发大纲"
+            }
+          },
+          {
+            "id": "82de040857dea98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent/Python 变量与数据类型详解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python 变量与数据类型详解"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57252d14c8211b54",
+  "active": "82de040857dea98e",
   "lastOpenFiles": [
-    "未命名.md",
+    "Agent/Python 基础学习内容详解.md",
+    "Agent/Python 变量与数据类型详解.md",
+    "Agent/AI 应用开发大纲.md",
     "readme.md",
+    "未命名.md",
     "未命名 2.base",
     "欢迎.md",
-    "Agent/AI 应用开发.md",
     "未命名.base",
     "视频笔记.md",
     "ai",
