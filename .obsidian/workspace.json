@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agent/未命名.md",
+                "file": "Agent/1.3 Python 控制流详解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "1.3 Python 控制流详解"
             }
           }
         ],
@@ -212,7 +212,7 @@
   "active": "82de040857dea98e",
   "lastOpenFiles": [
     "Agent/第一章 Python 基础学习内容详解.md",
-    "Agent/未命名.md",
+    "Agent/1.3 Python 控制流详解.md",
     "Agent/1.2 Python 运算符与表达式.md",
     "Agent/1.1 Python 变量与数据类型详解.md",
     "Agent/AI 应用开发大纲.md",
