@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/别再手动喂提示了：Agent Loops 才是你该学的新技能.md",
+                "file": "Clippings/Claude Code 官方公开 7 大配置技巧，效率翻倍！.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "别再手动喂提示了：Agent Loops 才是你该学的新技能"
+              "title": "Claude Code 官方公开 7 大配置技巧，效率翻倍！"
             }
           }
         ]
@@ -196,11 +196,12 @@
   },
   "active": "82de040857dea98e",
   "lastOpenFiles": [
-    "Agent/AI 应用开发大纲.md",
-    "Clippings/别再手动喂提示了：Agent Loops 才是你该学的新技能.md",
-    "Agent/1.4 Python 字符串处理.md",
-    "Clippings",
     "Agent/第一章 Python 基础学习内容详解.md",
+    "Clippings/Claude Code 官方公开 7 大配置技巧，效率翻倍！.md",
+    "Agent/1.4 Python 字符串处理.md",
+    "Clippings/别再手动喂提示了：Agent Loops 才是你该学的新技能.md",
+    "Agent/AI 应用开发大纲.md",
+    "Clippings",
     "Agent/1.3 Python 控制流详解.md",
     "Agent/1.2 Python 运算符与表达式.md",
     "Agent/1.1 Python 变量与数据类型详解.md",
