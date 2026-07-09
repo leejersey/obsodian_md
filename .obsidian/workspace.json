@@ -196,8 +196,9 @@
   },
   "active": "82de040857dea98e",
   "lastOpenFiles": [
-    "Agent/2.3 Python 作用域详解.md",
+    "Agent/2.4 Python 匿名函数 lambda.md",
     "Agent/第一章 Python 基础学习内容详解.md",
+    "Agent/2.3 Python 作用域详解.md",
     "Agent/2.2 Python 函数参数机制详解.md",
     "Agent/2.1 Python 函数定义与调用.md",
     "Agent/1.6 Python 异常处理.md",
