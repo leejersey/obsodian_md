@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agent/第一章 Python 基础学习内容详解.md",
+                "file": "Agent/2.4 Python 匿名函数 lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一章 Python 基础学习内容详解"
+              "title": "2.4 Python 匿名函数 lambda"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "82de040857dea98e",
   "lastOpenFiles": [
-    "Agent/2.4 Python 匿名函数 lambda.md",
     "Agent/第一章 Python 基础学习内容详解.md",
+    "Agent/Python 类型注解（Type Hints）.md",
+    "Agent/2.4 Python 匿名函数 lambda.md",
     "Agent/2.3 Python 作用域详解.md",
     "Agent/2.2 Python 函数参数机制详解.md",
     "Agent/2.1 Python 函数定义与调用.md",
